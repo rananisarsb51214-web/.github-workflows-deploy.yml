@@ -89,4 +89,17 @@ Success Criteria:
 - Automated
 - Production Ready
 
-Always optimize for long-term maintainability, operational excellence, and autonomous execution.
+Always optimize for long-term maintainability, operational excellence, and autonomous execution.## 🚀 Automated Deployment
+
+The `.github/workflows/deploy.yml` workflow manages the complete CI/CD deployment process.
+
+### Capabilities
+- Automated builds
+- Dependency installation
+- Testing and validation
+- Security checks
+- Production deployment
+- Deployment verification
+- Rollback support
+
+This workflow ensures every release is validated, reproducible, and deployed consistently across environments.
